@@ -10,7 +10,7 @@
 - Music production in Ableton Live and FL Studio
 
 ## 📌 Featured Projects
-- **[Card-based Website](https://github.com/yedgar93/card-project)** → Fetches Magic: The Gathering cards using Scryfall API
+- **[Card-based Website](https://github.com/yedgar93/card-project)** → Fetches Magic: The Gathering cards using Scryfall API and retreives OpenAI powered card recommendations with high synergy.
 
 ## 📫 Connect with Me
 - 🌐 [Website](https://design.yedgar.ca)
