@@ -18,4 +18,4 @@
 - 📷 [Instagram](https://instagram.com/yedgar) *(if applicable)*
 
 ---
-*“Building the web, one pixel at a time.”*
+*“Sorry, I just had to refresh the page.”*
