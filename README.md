@@ -14,7 +14,7 @@
 
 ## 📫 Connect with Me
 - 🌐 [Website](https://design.yedgar.ca)
-- 📷 [Instagram](https://instagram.com/yedgar) *(if applicable)*
+- 📷 [Instagram](https://instagram.com/yedgar)
 
 ---
 *“Sorry, I just had to refresh the page.”*
