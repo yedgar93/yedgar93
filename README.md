@@ -9,9 +9,6 @@
 - Web design & prototyping (Figma)
 - Music production in Ableton Live and FL Studio
 
-## 📌 Featured Projects
-- **[Card-based Website](https://spelltrace.app)** → Fetches Magic: The Gathering cards using Scryfall API and retreives OpenAI powered card recommendations with high synergy.
-
 ## 📫 Connect with Me
 - 🌐 [Website](https://portfolio.yedgar.ca)
 - 📷 [Instagram](https://instagram.com/yedgar)
