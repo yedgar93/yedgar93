@@ -5,9 +5,9 @@
 🎨 Exploring UI/UX, front-end development, and game design  
 
 ## 🚀 My Skills
-- HTML, CSS, Tailwind CSS, JavaScript, Bootstrap 5, SQL (learning)
+- HTML, CSS, Tailwind CSS, Bootstrap 5, SQL (learning), JavaScript (learning), React (learning), PHP (learning)
 - Web design & prototyping (Figma)
-- Music production in Ableton Live and FL Studio
+- Music production and mixing in FL Studio
 
 ## 📫 Connect with Me
 - 🌐 [Website](https://portfolio.yedgar.ca)
